@@ -1,0 +1,10 @@
+button, input, select, textarea {
+  font-style : oblique;
+  font-size   : 100%;
+}
+:required {
+  background: red !important;
+}
+ input[type=text],input[type=password], textarea {
+  background:blue;
+}

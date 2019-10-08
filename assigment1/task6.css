@@ -1,0 +1,21 @@
+div{
+	width: 300px;
+	margin: 0 auto;
+    border: 6px solid black;
+	background:#fcf003;
+}
+h1{
+	font-size:30px;
+	margin-left:20px;
+  text-decoration: underline;
+
+}
+p{
+	margin-left:30px;
+	border:3px solid green;
+	background:#03fcc2;
+	text-align:center;
+}
+a:hover {
+  background-color: purple;
+}
